@@ -1,0 +1,10 @@
+[
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "UdacityPrjUdagram"
+    },
+    {
+        "ParameterKey": "AppS3Bucket",
+        "ParameterValue": "s3://udacity-friese-udagram"
+    }
+]
